@@ -142,6 +142,7 @@
             this.settingsButton.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.settingsButton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.settingsButton.UseVisualStyleBackColor = true;
+            this.settingsButton.Click += new System.EventHandler(this.settingsButton_Click);
             // 
             // userButton
             // 

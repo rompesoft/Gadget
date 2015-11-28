@@ -22,5 +22,10 @@ namespace Gadget
             InitializeComponent();
         }
         #endregion
+
+        private void settingsButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
